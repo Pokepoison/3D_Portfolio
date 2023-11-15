@@ -50,7 +50,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Full stack Developer",
       icon: backend,
     },
     {
@@ -198,25 +198,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Pokemon Master Library",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search pokemon by id or name. Users can learn about the different types and abilities from the pokemon selected. There is also a helpful pokemon strenth and weakness chart. Prepare for trouble from Team Rocket!!",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "server-side APIs",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Bulma",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://pokepoison.github.io/Pokemon-Master-Library/",
     },
     {
       name: "Job IT",
