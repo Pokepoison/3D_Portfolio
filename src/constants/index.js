@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Jordan proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,7 +180,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Jordan does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -188,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Jordan optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -219,46 +219,46 @@ import {
       source_code_link: "https://pokepoison.github.io/Pokemon-Master-Library/",
     },
     {
-      name: "Job IT",
+      name: "Track Saver",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Track Saver is a web application designed to help users track their income, expenses, and savings, making it easier to manage their financial goals.",
       tags: [
         {
-          name: "react",
+          name: "Node.js",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Handlebars.js",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "MySQL",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/priyakumi/TRACK_SAVER",
     },
     {
-      name: "Trip Guide",
+      name: "CMS-blog",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "web application that allows developers to publish articles, blog posts, and their thoughts and opinions.",
       tags: [
         {
-          name: "nextjs",
+          name: "Node.js",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "MVC",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "MySQL",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://cms-blog-app-210599de7dff.herokuapp.com/",
     },
   ];
   
