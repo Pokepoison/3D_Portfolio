@@ -1,3 +1,4 @@
+import { WireframeMaterialShaders } from "@react-three/drei/materials/WireframeMaterial";
 import {
     mobile,
     backend,
@@ -23,6 +24,13 @@ import {
     jobit,
     tripguide,
     threejs,
+    weather,
+    workday,
+    pokedex,
+    notes,
+    blog,
+    saver,
+    
   } from "../assets";
   
   export const navLinks = [
@@ -215,7 +223,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: pokedex,
       source_code_link: "https://pokepoison.github.io/Pokemon-Master-Library/",
     },
     {
@@ -236,7 +244,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: saver,
       source_code_link: "https://github.com/priyakumi/TRACK_SAVER",
     },
     {
@@ -257,8 +265,67 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: blog,
       source_code_link: "https://cms-blog-app-210599de7dff.herokuapp.com/",
+    },
+    {
+      name: "Weather Wizard",
+      description:
+        "The Weather Wizard is to find out the potential weather for a city. The webpage displays 5 days of weather predictions.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Web APIs",
+          color: "green-text-gradient",
+        },
+      ],
+      image: weather,
+      source_code_link: "https://pokepoison.github.io/Weather-Wizard/",
+    },
+    {
+      name: "Time Management",
+      description:
+        "Time Management, is a work day scheduler designed to help users track their events and goals throughout the day.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Day.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Bootstrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: workday,
+      source_code_link: "https://github.com/Pokepoison/Time-Management",
+    },
+    {
+      name: "Sticky Notes",
+      description:
+        "The Sticky Notes application is a simple web-based tool that allows users to write and save notes. It helps small business owners and individuals organize their thoughts and keep track of tasks in a convenient digital format.",
+      tags: [
+        {
+          name: "Node.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Express",
+          color: "green-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: notes,
+      source_code_link: "https://sticky-notes-on-38f203f22914.herokuapp.com/",
     },
   ];
   

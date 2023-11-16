@@ -26,9 +26,16 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import pokedex from "./pokedex.png";
+import saver from "./saver.png";
+import blog from "./blog.png";
+import weather from "./weather.png";
+import workday from "./workday.png";
+import notes from "./notes.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -59,4 +66,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  notes,
+  weather,
+  workday,
+  pokedex,
+  saver,
+  blog,
 };
