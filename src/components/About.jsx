@@ -54,6 +54,14 @@ const About = () => {
         Three.js. I'm a quick learner and collaborate closely with clients to
         make creative, efficient, and user-friendly websites that solve
         real-world problems. Let's work together to bring your ideas to life!
+        <br>
+        </br>
+        <br>
+        </br>
+        <h3 className={`${styles.heroHeadText}
+           text-white`}>My => <span className="text-[#915eff]"><a href="https://docs.google.com/document/d/1zG41A_iIA_Cfb7R67sqM3fNpiP0-FNvzMIaxy0ecQjc/edit?pli=1" target="_blank">Resume</a></span></h3>
+         
+
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
