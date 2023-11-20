@@ -59,7 +59,7 @@ const About = () => {
         <br>
         </br>
         <h3 className={`${styles.heroHeadText}
-           text-white`}>My => <span className="text-[#915eff]"><a href="https://docs.google.com/document/d/1zG41A_iIA_Cfb7R67sqM3fNpiP0-FNvzMIaxy0ecQjc/edit?pli=1" target="_blank">Resume</a></span></h3>
+           text-white`}>My => <span className="text-[#915eff]"><a href="https://docs.google.com/document/d/1AdRTN0U2sh2zBBdRXr_e8k2_Lioio3qpeIMKlHiviGE/edit" target="_blank">Resume</a></span></h3>
          
 
       </motion.p>
