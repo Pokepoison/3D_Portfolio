@@ -30,6 +30,7 @@ import {
     notes,
     blog,
     saver,
+    aifireworks,
     
   } from "../assets";
   
@@ -180,7 +181,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as the products, but Jordan proved us wrong.",
+        "I thought it was going to be nearly impossible to make a website generate beautiful AI pictures, but Jordan proved us wrong.",
       name: "Benjamine Scobar",
       designation: "Front-end Developer",
       company: "University, Berkeley, CA",
@@ -224,7 +225,7 @@ import {
         },
       ],
       image: pokedex,
-      source_code_link: "https://pokepoison.github.io/Pokemon-Master-Library/",
+      source_code_link: "https://github.com/Pokepoison/Pokemon-Master-Library",
     },
     {
       name: "Track Saver",
@@ -245,7 +246,7 @@ import {
         },
       ],
       image: saver,
-      source_code_link: "https://github.com/priyakumi/TRACK_SAVER",
+      source_code_link: "https://github.com/Pokepoison/Track_Saver",
     },
     {
       name: "CMS-blog",
@@ -266,7 +267,7 @@ import {
         },
       ],
       image: blog,
-      source_code_link: "https://cms-blog-app-210599de7dff.herokuapp.com/",
+      source_code_link: "https://github.com/Pokepoison/CMS-blog-app",
     },
     {
       name: "Weather Wizard",
@@ -283,7 +284,7 @@ import {
         },
       ],
       image: weather,
-      source_code_link: "https://pokepoison.github.io/Weather-Wizard/",
+      source_code_link: "https://github.com/Pokepoison/Weather-Wizard",
     },
     {
       name: "Time Management",
@@ -307,25 +308,25 @@ import {
       source_code_link: "https://github.com/Pokepoison/Time-Management",
     },
     {
-      name: "Sticky Notes",
+      name: "AI Imaginations",
       description:
-        "The Sticky Notes application is a simple web-based tool that allows users to write and save notes. It helps small business owners and individuals organize their thoughts and keep track of tasks in a convenient digital format.",
+        "AI Imaginations is an application that allows the user to create and save AI generated images. Not only can users create their own files but they can also share with other users.",
       tags: [
         {
-          name: "Node.js",
+          name: "React.js",
           color: "blue-text-gradient",
         },
         {
-          name: "Express",
+          name: "Node.js",
           color: "green-text-gradient",
         },
         {
-          name: "HTML",
+          name: "MongoDB",
           color: "pink-text-gradient",
         },
       ],
-      image: notes,
-      source_code_link: "https://sticky-notes-on-38f203f22914.herokuapp.com/",
+      image: aifireworks,
+      source_code_link: "https://github.com/Pokepoison/AI_Imaginations",
     },
   ];
   

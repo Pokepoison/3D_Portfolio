@@ -35,6 +35,7 @@ import notes from "./notes.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import aifireworks from "./aifireworks.png"
 
 
 export {
@@ -66,6 +67,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  aifireworks,
   notes,
   weather,
   workday,
