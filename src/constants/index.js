@@ -249,7 +249,7 @@ import {
       source_code_link: "https://github.com/Pokepoison/Track_Saver",
     },
     {
-      name: "CMS-blog",
+      name: "CMS blog",
       description:
         "web application that allows developers to publish articles, blog posts, and their thoughts and opinions.",
       tags: [
@@ -313,15 +313,15 @@ import {
         "AI Imaginations is an application that allows the user to create and save AI generated images. Not only can users create their own files but they can also share with other users.",
       tags: [
         {
-          name: "React.js",
+          name: "M.E.R.N.",
           color: "blue-text-gradient",
         },
+        // {
+        //   name: "openai",
+        //   color: "green-text-gradient",
+        // },
         {
-          name: "Node.js",
-          color: "green-text-gradient",
-        },
-        {
-          name: "MongoDB",
+          name: "Tailwindcss",
           color: "pink-text-gradient",
         },
       ],
